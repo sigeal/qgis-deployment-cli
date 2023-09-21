@@ -3,4 +3,5 @@
 
 pillow>=9.4,<10
 pytest-cov>=3.0,<4.2
+pytest-httpbin>=2.0,<2.1
 validators>=0.19,<0.22
